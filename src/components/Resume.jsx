@@ -41,7 +41,7 @@ const Resume = () => {
           <li class="skills-item">
             <div class="title-wrapper">
               <h5 class="h5">Research Interest</h5>
-              <data value="85">Deep learning, Machine learning, Computer vision, IoT, Robotics, Health&AI.</data>
+              <data value="80">Deep learning, Machine learning, Computer vision, IoT, Robotics, Health&AI.</data>
             </div>
 
             <div class="skill-progress-bg">
