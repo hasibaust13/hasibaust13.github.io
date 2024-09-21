@@ -22,7 +22,7 @@ const Resume = () => {
 
             <span>2023 — Present </span>
 
-            <p class="timeline-text">Bangladesh University of Business and Technology, Bangladesh.</p>
+            <p class="timeline-text">Bangladesh University of Business and Technology, Bangladesh</p>
           </li>
         </ol>
       </section>
