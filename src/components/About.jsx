@@ -41,7 +41,7 @@ const About = () => {
 
       <section class="about-text">
         <p>
-          I am <b>Khan Md. Hasib</b>, currently on pursuing my PhD at The
+          I am <b>Khan Md Hasib</b>, currently on pursuing my PhD at The
           University of Western Australia. I'm also an Assistant Professor in
           the Department of Computer Science & Engineering at Bangladesh
           University of Business and Technology (BUBT). I hold an MSc in
@@ -72,7 +72,7 @@ const About = () => {
               <h4 class="h4 service-item-title">Deep Learning</h4>
 
               <p class="service-item-text">
-                Specialist in deep learning and computer vision, with major
+                Implementing deep learning and computer vision, with major
                 accomplishments in creating intelligent systems such as
                 AlzheimerNet for brain picture categorization.
               </p>
@@ -93,7 +93,7 @@ const About = () => {
               <h4 class="h4 service-item-title">Machine Learning</h4>
 
               <p class="service-item-text">
-                Skilled in machine learning techniques for data imbalance, text
+                Exploring machine learning techniques for data imbalance, text
                 classification, and social network analysis, including
                 depression detection.
               </p>
