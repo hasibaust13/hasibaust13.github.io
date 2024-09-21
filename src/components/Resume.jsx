@@ -24,13 +24,6 @@ const Resume = () => {
 
             <p class="timeline-text">Bangladesh University of Business and Technology, Bangladesh.</p>
           </li>
-          <li class="timeline-item">
-            <h4 class="h4 timeline-item-title">Assistant Professor, Department of Computer Science and Engineering</h4>
-
-            <span>2023 — Present </span>
-
-            <p class="timeline-text">Bangladesh University of Business and Technology, Bangladesh.</p>
-          </li>
         </ol>
       </section>
 
