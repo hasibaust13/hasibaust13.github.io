@@ -679,7 +679,7 @@ main {
 @media screen and (min-width: 768px) {
   .sidebar > .sidebar-info > .avatar-box > .crop {
     border-radius: 20%;
-    height: 160px;
+    height: 200px;
     object-fit: cover;
   }
 }
@@ -2019,6 +2019,7 @@ textarea.form-input::-webkit-resizer {
     position: sticky;
     top: 60px;
     max-height: max-content;
+    min-width: 21rem;
     height: 100%;
     margin-bottom: 0;
     padding-top: 60px;
@@ -2030,7 +2031,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .avatar-box img {
-    width: 150px;
+    width: 200px;
   }
 
   .info-content .name {

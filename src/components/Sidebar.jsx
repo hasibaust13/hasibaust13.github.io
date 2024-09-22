@@ -21,11 +21,11 @@ const Sidebar = () => {
     <aside class="sidebar active" data-sidebar>
       <div class="sidebar-info">
         <figure class="avatar-box">
-          <img src={hasibmd} className="rounded-img crop" alt="Md Mohsin Kabir" width="80" />
+          <img src={hasibmd} className="rounded-img crop" alt="Khan Md Hasib" width="80" />
         </figure>
 
         <div class="info-content">
-          <h1 class="name" title="Md Mohsin Kabir">
+          <h1 class="name" title="Khan Md Hasib">
           Khan Md Hasib
           </h1>
 
@@ -53,7 +53,7 @@ const Sidebar = () => {
                 <p class="contact-title">Email</p>
 
                 <a href="hasibk@gmail.com" class="contact-link">
-                hasibk@gmail.com
+                khanmdhasib.aust@gmail.com
                 </a>
               </div>
             </li>
@@ -134,7 +134,7 @@ const Sidebar = () => {
         </figure>
 
         <div class="info-content">
-          <h1 class="name" title="Md Mohsin Kabir">
+          <h1 class="name" title="Khan Md Hasib">
             Khan Md Hasib
           </h1>
 
@@ -162,7 +162,7 @@ const Sidebar = () => {
                 <p class="contact-title">Email</p>
 
                 <a href="mailto:hasibk@gmail.com" class="contact-link">
-                hasibk@gmail.com
+                khanmdhasib.aust@gmail.com
                 </a>
               </div>
             </li>
