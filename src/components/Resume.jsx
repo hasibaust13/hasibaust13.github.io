@@ -1,5 +1,5 @@
 import React from "react";
-import mmkresume from "../assets/resume-sample.pdf";
+import mmkresume from "../assets/resume.pdf";
 
 const Resume = () => {
   return (

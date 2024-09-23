@@ -39,7 +39,7 @@ const Contact = () => {
             name="gform"
             id="gform"
             enctype="text/plain"
-            action="https://docs.google.com/forms/d/e/1FAIpQLSfaBbktKp96_kiVZtnXh6ZnGNZDBG4wmnOxDKgx3Kv2d0NIFA/formResponse?"
+            action=""
             target="hidden_iframe"
             onSubmit={sentMail}
             onsubmit="submitted=true;"
