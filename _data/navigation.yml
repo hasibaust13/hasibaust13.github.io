@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+    
+  - title: "Experience"
+    url: /experience/
+  
+  - title: "Education"
+    url: /education/
+ 
+  - title: "Publications"
+    url: /publications/    
+       
+  - title: "Speeches, Honors, Awards"
+    url: /speeches-honors-awards/
+
+  - title: "CV"
+    url: /resume/
+ 
+  - title: "Contact"
+    url: /contact/ 
