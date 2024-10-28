@@ -22,7 +22,7 @@ redirect_from:
 <p style="text-align:justify; color:black; font-family:Georgia">This website contains information about the courses I am currently <span style="color:#ec212a;font-weight:bold">instructing</span>, the course materials, my research interests, links to my papers, and some of my most memorable moments. I appreciate your visit to my website.</p>
 
 
-# ACTIVITIES
+# Activities
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[October 2024]</span> - Invited to serve as a <span style="color:#ec212a;font-weight:bold">Reviewer</span> in <a href="https://www.sciencedirect.com/journal/psychiatry-research" target="_blank" style="color:#364850;font-weight:bold">Psychiatry Research</a> Journal[<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[September 2024]</span> - A short paper has been accepted in <a href="https://www.compasconf.org/" target="_blank" style="color:#364850;font-weight:bold">COMPAS 2024</a>.
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[September 2024]</span> - Invited as a <span style="color:#ec212a;font-weight:bold">Keynote</span> Speaker in an online webinar title "<b><i><u>Ph.D. in Australia</u></i></b>" organized by <span style="color:#364850;font-weight:bold">IEEE BUBT Student Branch</span>.</span>
