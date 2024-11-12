@@ -23,7 +23,7 @@ redirect_from:
 
 
 # Activities
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[July 2024]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://www.nature.com/srep/" target="_blank" style="color:#364850;font-weight:bold">Scientific Reports</a> Journal [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
+* <span style="font-family:Georgia; color:black"><span style="color:Blue">[November 2024]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://www.nature.com/srep/" target="_blank" style="color:#364850;font-weight:bold">Scientific Reports</a> Journal [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[October 2024]</span> - Invited to serve as a <span style="color:#ec212a;font-weight:bold">Reviewer</span> in <a href="https://www.sciencedirect.com/journal/psychiatry-research" target="_blank" style="color:#364850;font-weight:bold">Psychiatry Research</a> Journal[<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[September 2024]</span> - A short paper has been accepted in for oral presentation in <a href="https://www.compasconf.org/" target="_blank" style="color:#364850;font-weight:bold">COMPAS 2024</a>.
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[September 2024]</span> - Invited as a <span style="color:#ec212a;font-weight:bold">Keynote</span> Speaker in an online webinar title <a href="https://www.facebook.com/events/1041764287735375/?ref=newsfeed" target="_blank" style="color:#364850;font-weight:bold">Ph.D. in Australia</a> organized by <span style="color:#364850;font-weight:bold">IEEE BUBT Student Branch</span>.</span>
@@ -101,5 +101,5 @@ redirect_from:
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[January 2021]</span> - A short paper has been accepted for oral presentation in <a href="https://icict4sd.bup.edu.bd/" target="_blank" style="color:#364850;font-weight:bold">ICICT4SD 2021.
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[December 2020]</span> - A short paper has been accepted for oral presentation in <a href="https://ieeexplore.ieee.org/xpl/conhome/9396788/proceeding" target="_blank" style="color:#364850;font-weight:bold">ICCCIS 2021. 
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[December 2020]</span> - A short paper has been accepted for oral presentation in <a href="https://icicnis.com/" target="_blank" style="color:#364850;font-weight:bold">ICICNIS 2020. 
-
+* <span style="font-family:Georgia; color:black"><span style="color:Blue">[November 2020]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://thescipub.com/jcs" target="_blank" style="color:#364850;font-weight:bold">Journal of Computer Science[<span style="color:#ec212a"><b>Quartile</b>: Q4</span>].</span>
 
