@@ -23,6 +23,7 @@ redirect_from:
 
 
 # Recent News
+* <span style="font-family:Georgia; color:black"><span style="color:Blue">[January 2025]</span> - Started my <b>PhD program</b> at the school of Systems and Computing, <a href="https://www.unsw.edu.au/canberra" target="_blank" style="color:#364850;font-weight:bold">The University of New South Wales</a>, Canberra, ACT 2600, Australia.
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[November 2024]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://www.nature.com/articles/s41598-024-78363-w" target="_blank" style="color:#364850;font-weight:bold">Scientific Reports</a> Journal [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[October 2024]</span> - Invited to serve as a <span style="color:#ec212a;font-weight:bold">Reviewer</span> in <a href="https://www.sciencedirect.com/journal/psychiatry-research" target="_blank" style="color:#364850;font-weight:bold">Psychiatry Research</a> Journal[<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[September 2024]</span> - A short paper has been accepted in for oral presentation in <a href="https://www.compasconf.org/" target="_blank" style="color:#364850;font-weight:bold">COMPAS 2024</a>.
