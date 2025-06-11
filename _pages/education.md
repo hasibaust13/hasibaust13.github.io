@@ -7,8 +7,20 @@ author_profile: true
 
 # Education
 
+<!-- PhD -->
+<img src="/images/LogoUNSW.png" style="float:left;width:140px;height:140px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">Doctor of Philosophy in Computer Science</span><br/>
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.bracu.ac.bd/" target="_blank" style="color:black;">University of New South Wales, Canberra, Australia</a></b></span><br/>
+Duration: 10 February 2025 - Present<br/>
+<!-- CGPA: <b> </b>/4.00 scale <br/> -->
+Primary Supervisor: <a style="color:brown;" href="https://www.unsw.edu.au/canberra">Dr. , PhD</a><br/>
+Secondary Supervisor: <a style="color:brown;" href="https://www.unsw.edu.au/canberra">Dr. </a><br/>
+Secondary Joint Supervisor: <a style="color:brown;" href="https://www.unsw.edu.au/canberra">Dr. </a><br/>
+</span>
+<br/>
+<br/>
+
 <!-- M.Sc -->
-<img src="/images/logoBRAC.png" style="float:left;width:140px;height:140px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">Master of Science in Computer Science</span><br/>
+<img src="/images/logoBRAC.png" style="float:left;width:138px;height:140px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">Master of Science in Computer Science and Engineering</span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.bracu.ac.bd/" target="_blank" style="color:black;">BRAC University, Bangladesh</a></b></span><br/>
 Duration: 10 October 2020 - 08 March 2022<br/>
 <!-- CGPA: <b> </b>/4.00 scale <br/> -->
@@ -17,6 +29,7 @@ Thesis Supervisor: <a style="color:brown;" href="https://www.bracu.ac.bd/about/p
 </span>
 <br/>
 <br/>
+
 <!-- B.Sc -->
 <img src="/images/LogoAust.png" style="float:left;width:140px;height:140px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">B.Sc. in Computer Science and Engineering</span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank" style="color:black;">Ahsanullah University of Science and Technology, Bangladesh</a></b></span><br/>
