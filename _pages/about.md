@@ -25,10 +25,17 @@ redirect_from:
 
 
 # Recent News
+
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[February 2025]</span> - Started my <b>PhD program</b> at the school of Systems and Computing, <a href="https://www.unsw.edu.au/canberra" target="_blank" style="color:#364850;font-weight:bold">The University of New South Wales</a>, Canberra, ACT 2600, Australia.
+
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[December 2024]</span> - Become an <b>Associate Student Member</b> at the <a href="https://www.acs.org.au/" target="_blank" style="color:#364850;font-weight:bold">Australian Computer Society (ACS)</a>. [Membership No - 4434546]
+
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[November 2024]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://www.nature.com/articles/s41598-024-78363-w" target="_blank" style="color:#364850;font-weight:bold">Scientific Reports</a> Journal [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
+
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[September 2024]</span> - A short paper has been accepted in for oral presentation in <a href="https://www.compasconf.org/" target="_blank" style="color:#364850;font-weight:bold">COMPAS 2024</a>.
+
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[September 2024]</span> - Invited as a <span style="color:#ec212a;font-weight:bold">Keynote</span> Speaker in an online webinar title <a href="https://www.facebook.com/events/1041764287735375/?ref=newsfeed" target="_blank" style="color:#364850;font-weight:bold">Ph.D. in Australia</a> organized by <span style="color:#364850;font-weight:bold">IEEE BUBT Student Branch</span>.</span>
+
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[August 2024]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://link.springer.com/journal/521" target="_blank" style="color:#364850;font-weight:bold">Neural Computing and Applications Journal</a>. [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
+
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[June 2024]</span> - Reached <b>1000</b> citations on my Google Scholar profile!!
