@@ -12,7 +12,7 @@ redirect_from:
 
 <p style="text-align:justify; color:black; font-family:Georgia"> Greetings!!</p>
 
-<p style="text-align:justify; color:black; font-family:Georgia"> I am <b>Khan Md Hasib</b> a first year PhD Student in the school of School of Systems and Computing at the <b><a href="https://www.unsw.edu.au/canberra" target="_blank" style="color:black;">University of New South Wales</a></b>, Canberra. I am currently working in the <b><a href="https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/dsar-group" target="_blank" style="color:black;">Decision Support and Analytics Research Group (DSARG)</a></b> at UNSW Canberra. At present, I am investigating bias, fairness and safety in the medical domain data.</p>
+<p style="text-align:justify; color:black; font-family:Georgia"> I am <b>Khan Md Hasib</b> a first year PhD Student in the school of School of Systems and Computing at the <b><a href="https://www.unsw.edu.au/canberra" target="_blank" style="color:black;">The University of New South Wales</a></b>, Canberra, Australia. I am currently working in the <b><a href="https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/dsar-group" target="_blank" style="color:black;">Decision Support and Analytics Research Group (DSARG)</a></b> at UNSW Canberra. At present, I am investigating bias, fairness and safety in the medical domain data.</p>
 
  <!-- ---and very fortunate to be advised by <b><a href="https://www.unsw.edu.au/staff/heba-el-fiqi" target="_blank" style="color:black;">Dr. Heba El-Fiqi</a></b> and# <b><a href="https://www.unsw.edu.au/staff/ripon-chakrabortty" target="_blank" style="color:black;">Dr. Ripon Chakrabortty</a></b>. -->
 
