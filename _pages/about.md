@@ -12,7 +12,7 @@ redirect_from:
 
 <p style="text-align:justify; color:black; font-family:Georgia"> Greetings!!</p>
 
-<p style="text-align:justify; color:black; font-family:Georgia"> I am <b>Khan Md Hasib</b> a first year PhD Student in the school of School of Systems and Computing at the <b><a href="https://www.unsw.edu.au/canberra" target="_blank" style="color:black;">The University of New South Wales</a></b>, Canberra, Australia. I am currently working in the <b><a href="https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/dsar-group" target="_blank" style="color:black;">Decision Support and Analytics Research Group (DSARG)</a></b> at UNSW Canberra. At present, I am investigating bias, fairness and safety in the medical domain data.</p>
+<p style="text-align:justify; color:black; font-family:Georgia"> I am <b>Khan Md Hasib</b> a first year PhD Student in the school of School of Systems and Computing at the <b><a href="https://www.unsw.edu.au/canberra" target="_blank" style="color:black;">The University of New South Wales</a></b>, Canberra, Australia. I am currently working in the <b><a href="https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/dsar-group" target="_blank" style="color:black;">Decision Support and Analytics Research Group (DSARG)</a></b> at UNSW Canberra. At present, I am investigating on the development and application of artificial intelligence methods, particularly knowledge graph blending with machine learning and large language models, to improve health systems and outcomes.</p>
 
  <!-- ---and very fortunate to be advised by <b><a href="https://www.unsw.edu.au/staff/heba-el-fiqi" target="_blank" style="color:black;">Dr. Heba El-Fiqi</a></b> and# <b><a href="https://www.unsw.edu.au/staff/ripon-chakrabortty" target="_blank" style="color:black;">Dr. Ripon Chakrabortty</a></b>. -->
 
@@ -25,6 +25,10 @@ redirect_from:
 
 
 # Recent News
+
+* <span style="font-family:Georgia; color:black"><span style="color:Blue">[October 2025]</span> - Reached <b>2000</b> citations on my Google Scholar profile!!
+
+* <span style="font-family:Georgia; color:black"><span style="color:Blue">[October 2025]</span> - Nominated an <b>Equity Diversity and Inclusion (EDI) Officer</b> at the <a href="https://www.arc.unsw.edu.au/canberra" target="_blank" style="color:#364850;font-weight:bold">Arc Canberra</a> for the year of 2026. 
 
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[February 2025]</span> - Started my <b>PhD program</b> at the school of Systems and Computing, <a href="https://www.unsw.edu.au/canberra" target="_blank" style="color:#364850;font-weight:bold">The University of New South Wales</a>, Canberra, ACT 2600, Australia.
 
