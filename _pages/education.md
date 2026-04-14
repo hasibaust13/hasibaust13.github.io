@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- PhD -->
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
-<img src="/images/logounsw.png" style="width:150px; height:auto; margin-right:20px;">
+<img src="/images/Logo.png" style="width:150px; height:auto; margin-right:20px;">
 <div>
 <b style="font-size:16pt;">PhD in Computer Science (Ongoing)</b><br/>
 <b><a href="https://www.unsw.edu.au/canberra" target="_blank">University of New South Wales, Canberra, Australia</a></b><br/>
@@ -46,7 +46,7 @@ CGPA: <b>3.62</b> on a scale of 4.00 (Last 60 Credit CGPA: 3.80)<br/>
 
 <!-- H.S.C. -->
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
-<img src="/images/logoNotreDame.jpg" style="width:120px; height:auto; margin-right:20px;">
+<img src="/images/ndc.png" style="width:120px; height:auto; margin-right:20px;">
 <div>
 <b style="font-size:16pt;">Higher Secondary Certificate (H.S.C.)</b><br/>
 <b>Notre Dame College</b><br/>
