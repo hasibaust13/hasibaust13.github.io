@@ -26,6 +26,20 @@ I am open to research collaborations in the fields of **Machine Learning**, **Me
 
 * **[June 2025]** — Invited to serve as a **Reviewer** for [Journal of Computational Mathematics and Data Science](https://www.sciencedirect.com/journal/journal-of-computational-mathematics-and-data-science){:target="_blank"} [**Q2**].
 
+* **[May 2025]** — Invited as a **Keynote Speaker** for the webinar [Harnessing Large Language Models (LLMs) for Next-Gen AI Research & PhD Funding Pathways in Australia](https://www.facebook.com/events/1931376380999571/){:target="_blank"}, organized by AMIRL.
+
+* **[May 2025]** — A short paper accepted for oral presentation at [CITIC 2025](https://difcon.mmu.edu.my/citic.html){:target="_blank"}.
+
+* **[April 2025]** — A collaborative paper accepted in [International Journal of Information Management Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights){:target="_blank"} [**Q1**].
+
+* **[April 2025]** — Attended workshop on **Future of AI and Analytics for Sustainable Operations** at UNSW Canberra, organized by [DSARG](https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/dsar-group){:target="_blank"}.
+
+* **[January 2025]** — A short paper accepted for oral presentation at [ECCE 2025](https://ecce2025.cuet.ac.bd/){:target="_blank"}.
+
+* **[February 2025]** — Started my **PhD program** at the School of Systems and Computing, [UNSW Canberra](https://www.unsw.edu.au/canberra){:target="_blank"}.
+
+* **[December 2024]** — Became an **Associate Student Member** of the [Australian Computer Society (ACS)](https://www.acs.org.au/){:target="_blank"}.
+
 [See all news >>](/news/)
 
 ---
