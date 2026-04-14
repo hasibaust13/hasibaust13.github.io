@@ -87,6 +87,7 @@ CGPA: <b>3.62</b> on a scale of 4.00 (Last 60 Credit CGPA: 3.80)<br/>
 
 <!-- H.S.C. -->
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+<img src="/images/logoNotreDame.jpg" style="width:120px; height:auto; margin-right:20px;">
 <div>
 <b style="font-size:16pt;">Higher Secondary Certificate (H.S.C.)</b><br/>
 <b>Notre Dame College</b><br/>
@@ -98,6 +99,7 @@ GPA: <b>5.00</b> on a scale of 5.00<br/>
 
 <!-- S.S.C. -->
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+<img src="/images/logoMotijheel.png" style="width:120px; height:auto; margin-right:20px;">
 <div>
 <b style="font-size:16pt;">Secondary School Certificate (S.S.C.)</b><br/>
 <b>Motijheel Govt. Boy's High School</b><br/>
