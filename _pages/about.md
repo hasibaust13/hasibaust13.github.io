@@ -8,38 +8,50 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+# Welcome!
 
-<p style="text-align:justify; color:black; font-family:Georgia"> Greetings!!</p>
+I'm glad you are here!
 
-<p style="text-align:justify; color:black; font-family:Georgia"> I am <b>Khan Md Hasib</b> a first year PhD Student in the school of School of Systems and Computing at the <b><a href="https://www.unsw.edu.au/canberra" target="_blank" style="color:black;">The University of New South Wales</a></b>, Canberra, Australia. I am currently working in the <b><a href="https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/dsar-group" target="_blank" style="color:black;">Decision Support and Analytics Research Group (DSARG)</a></b> at UNSW Canberra. At present, I am investigating on the development and application of artificial intelligence methods, particularly knowledge graph blending with machine learning and large language models, to improve health systems and outcomes.</p>
+I am **Khan Md Hasib**, a first-year PhD student in the School of Systems and Computing at the [University of New South Wales (UNSW)](https://www.unsw.edu.au/canberra){:target="_blank"}, Canberra, Australia. I am fortunate to be advised by [Dr. Ripon Kumar Chakrabortty](https://www.unsw.edu.au/staff/ripon-chakrabortty){:target="_blank"} and [Dr. Heba El-Fiqi](https://www.unsw.edu.au/staff/heba-el-fiqi){:target="_blank"}. I am currently working in the [Decision Support and Analytics Research Group (DSARG)](https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/dsar-group){:target="_blank"} at UNSW Canberra. At present, I am investigating the development and application of artificial intelligence methods, particularly knowledge graph blending with machine learning and large language models, to improve health systems and outcomes.
 
- <!-- ---and very fortunate to be advised by <b><a href="https://www.unsw.edu.au/staff/heba-el-fiqi" target="_blank" style="color:black;">Dr. Heba El-Fiqi</a></b> and# <b><a href="https://www.unsw.edu.au/staff/ripon-chakrabortty" target="_blank" style="color:black;">Dr. Ripon Chakrabortty</a></b>. -->
+Prior to my PhD, I served as an **Assistant Professor** at the Department of Computer Science and Engineering, [Bangladesh University of Business and Technology (BUBT)](https://www.bubt.edu.bd){:target="_blank"}. I have also worked as a **Casual Teaching** staff at the [University of Western Australia](https://www.uwa.edu.au/){:target="_blank"}, and held teaching positions at [State University of Bangladesh](https://www.sub.edu.bd/){:target="_blank"}, [Bangladesh University](https://bu.edu.bd/){:target="_blank"}, and [Ahsanullah University of Science & Technology (AUST)](https://www.aust.edu/){:target="_blank"}. I am also involved as a **Lead Researcher** at the [Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/){:target="_blank"}.
 
-<p style="text-align:justify; color:black; font-family:Georgia">Prior to that I worked as an Assistant Professor at the Department of Computer Science and Engineering, <b><a href="https://www.bubt.edu.bd" target="_blank" style="color:black;">Bangladesh University of Business and Technology (BUBT)</a></b>, Dhaka, Bangladesh. I also involved as a <span style="color:#2a2ad3;font-weight:bold">Lead</span>  <span style="color:#ec212a;font-weight:bold">Researcher</span> at <b><a href="https://amirl.org/" target="_blank" style="color:black;">Advanced Machine Intelligence Research Lab (AMIRL)</a></b>. I have received my M.Sc. degree from the Department of Computer Science and Engineering, <b><a href="https://www.bracu.ac.bd/" target="_blank" style="color:black;">Brac University</a></b>, Dhaka, Bangladesh. Additionally, I have completed my B.Sc. from the Department of Computer Science and Engineering, <b><a href="https://www.aust.edu/" target="_blank" style="color:black;">Ahsanullah University of Science & Technology (AUST)</a></b>, Dhaka, Bangladesh. My career aspiration is to work in leading AI research laboratories.</p>
+I received my **M.Sc.** (CGPA: 4.00/4.00, top 1%) from [BRAC University](https://www.bracu.ac.bd/){:target="_blank"} and my **B.Sc.** (CGPA: 3.62/4.00, top 10%) from [Ahsanullah University of Science & Technology](https://www.aust.edu/){:target="_blank"}, both in Computer Science and Engineering. I have published in top venues including *IEEE Transactions on Computational Social Systems*, *Engineering Applications of Artificial Intelligence*, *IEEE Access*, and *Scientific Reports*, with multiple **Best Paper Awards**.
 
+I am open to research collaborations in the fields of **Machine Learning**, **Medical Imaging**, **Explainable AI**, **Natural Language Processing**, and **Health Informatics**. If you are interested in collaborating or exploring research opportunities, I would be pleased to connect.
 
-<p style="text-align:justify; color:black; font-family:Georgia">I am open to any Research Collaborations in the field of Natural Language Processing, Health Informatcs and Computer Vision. <span style="color:#2a2ad3;font-weight:bold">For any inquiries or potential collaborations, please feel free to reach out via email.</span></p>
-
-
-
+---
 
 # Recent News
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[October 2025]</span> - Reached <b>2000</b> citations on my Google Scholar profile!!
+* **[October 2025]** — Reached **2000** citations on my Google Scholar profile!
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[October 2025]</span> - Nominated an <b>Equity Diversity and Inclusion (EDI) Officer</b> at the <a href="https://www.arc.unsw.edu.au/canberra" target="_blank" style="color:#364850;font-weight:bold">Arc Canberra</a> for the year of 2026. 
+* **[October 2025]** — Nominated as an **Equity Diversity and Inclusion (EDI) Officer** at [Arc Canberra](https://www.arc.unsw.edu.au/canberra){:target="_blank"} for the year of 2026.
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[February 2025]</span> - Started my <b>PhD program</b> at the school of Systems and Computing, <a href="https://www.unsw.edu.au/canberra" target="_blank" style="color:#364850;font-weight:bold">The University of New South Wales</a>, Canberra, ACT 2600, Australia.
+* **[June 2025]** — Invited to serve as a **Reviewer** for [Journal of Computational Mathematics and Data Science](https://www.sciencedirect.com/journal/journal-of-computational-mathematics-and-data-science){:target="_blank"} [**Q2**].
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[December 2024]</span> - Become an <b>Associate Student Member</b> at the <a href="https://www.acs.org.au/" target="_blank" style="color:#364850;font-weight:bold">Australian Computer Society (ACS)</a>. [Membership No - 4434546]
+* **[May 2025]** — Invited as a **Keynote Speaker** for the webinar [Harnessing Large Language Models (LLMs) for Next-Gen AI Research & PhD Funding Pathways in Australia](https://www.facebook.com/events/1931376380999571/){:target="_blank"}, organized by AMIRL.
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[November 2024]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://www.nature.com/articles/s41598-024-78363-w" target="_blank" style="color:#364850;font-weight:bold">Scientific Reports</a> Journal [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
+* **[May 2025]** — A short paper accepted for oral presentation at [CITIC 2025](https://difcon.mmu.edu.my/citic.html){:target="_blank"}.
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[September 2024]</span> - A short paper has been accepted in for oral presentation in <a href="https://www.compasconf.org/" target="_blank" style="color:#364850;font-weight:bold">COMPAS 2024</a>.
+* **[April 2025]** — A collaborative paper accepted in [International Journal of Information Management Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights){:target="_blank"} [**Q1**].
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[September 2024]</span> - Invited as a <span style="color:#ec212a;font-weight:bold">Keynote</span> Speaker in an online webinar title <a href="https://www.facebook.com/events/1041764287735375/?ref=newsfeed" target="_blank" style="color:#364850;font-weight:bold">Ph.D. in Australia</a> organized by <span style="color:#364850;font-weight:bold">IEEE BUBT Student Branch</span>.</span>
+* **[February 2025]** — Started my **PhD program** at the School of Systems and Computing, [UNSW Canberra](https://www.unsw.edu.au/canberra){:target="_blank"}.
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[August 2024]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://link.springer.com/journal/521" target="_blank" style="color:#364850;font-weight:bold">Neural Computing and Applications Journal</a>. [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
+* **[December 2024]** — Became an **Associate Student Member** of the [Australian Computer Society (ACS)](https://www.acs.org.au/){:target="_blank"}.
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[June 2024]</span> - Reached <b>1000</b> citations on my Google Scholar profile!!
+* **[November 2024]** — A collaborative paper accepted in [Scientific Reports](https://www.nature.com/articles/s41598-024-78363-w){:target="_blank"} [**Q1**].
+
+[See all news >>](/news/)
+
+---
+
+# Find me on
+
+[Google Scholar](https://scholar.google.com/citations?user=7chm1qwAAAAJ){:target="_blank"} &#124;
+[ResearchGate](https://www.researchgate.net/profile/Khan_Hasib){:target="_blank"} &#124;
+[Semantic Scholar](https://www.semanticscholar.org/author/Khan-Md-Hasib/68973629){:target="_blank"} &#124;
+[ORCID](https://orcid.org/0000-0001-6504-4192){:target="_blank"} &#124;
+[LinkedIn](https://www.linkedin.com/in/khan-md-hasib-a83236128/){:target="_blank"} &#124;
+[GitHub](https://github.com/hasibaust13){:target="_blank"} &#124;
+[X (Twitter)](https://x.com/hasib_002){:target="_blank"}

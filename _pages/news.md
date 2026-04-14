@@ -1,43 +1,54 @@
 ---
 layout: archive
-title: ""
+title: "News"
 permalink: /news/
 author_profile: true
 ---
 
 # 2025
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[June]</span> - Invited to serve as a <span style="color:#ec212a;font-weight:bold">Reviewer</span> in <a href="https://www.sciencedirect.com/journal/journal-of-computational-mathematics-and-data-science" target="_blank" style="color:#364850;font-weight:bold">Journal of Computational Mathematics and Data Science</a> [<span style="color:#ec212a"><b>Quartile</b>: Q2</span>].</span>
+* **[June]** — Invited to serve as a **Reviewer** for [Journal of Computational Mathematics and Data Science](https://www.sciencedirect.com/journal/journal-of-computational-mathematics-and-data-science){:target="_blank"} [**Q2**].
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[May]</span> - Invited as a <span style="color:#ec212a;font-weight:bold">Keynote</span> Speaker in an online webinar title <a href="https://www.facebook.com/events/1931376380999571/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22home%22%7D%2C%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D]%2C%22ref_notif_type%22%3Anull%7D" target="_blank" style="color:#364850;font-weight:bold">Harnessing Large Language Models (LLMs) for Next-Gen AI Research & PhD Funding Pathways in Australia</a> organized by <span style="color:#364850;font-weight:bold">Advanced Machine Intelligence Research Lab (AMIRL)</span>.</span>
+* **[May]** — Invited as a **Keynote Speaker** for the webinar [Harnessing Large Language Models (LLMs) for Next-Gen AI Research & PhD Funding Pathways in Australia](https://www.facebook.com/events/1931376380999571/){:target="_blank"}, organized by Advanced Machine Intelligence Research Lab (AMIRL).
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[May]</span> - A short paper has been accepted in for oral presentation in <a href="https://difcon.mmu.edu.my/citic.html" target="_blank" style="color:#364850;font-weight:bold">CITIC 2025</a>.
+* **[May]** — A short paper accepted for oral presentation at [CITIC 2025](https://difcon.mmu.edu.my/citic.html){:target="_blank"}.
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[April]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank" style="color:#364850;font-weight:bold">International Journal of Information Management Data Insights</a> [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
+* **[April]** — A collaborative paper accepted in [International Journal of Information Management Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights){:target="_blank"} [**Q1**].
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[April]</span> - Completed first course (5253_RINT1000) <a href="https://www.unsw.edu.au/assurance-integrity/conduct-integrity/conduct-unsw/research-integrity" target="_blank" style="color:#364850;font-weight:bold"> UNSW Research Integrity</a> in PhD</span>.</span>
+* **[April]** — Completed first course (5253_RINT1000) [UNSW Research Integrity](https://www.unsw.edu.au/assurance-integrity/conduct-integrity/conduct-unsw/research-integrity){:target="_blank"} in PhD.
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[April]</span> - Attended a workshop on <b>Future of AI and Analytics for Sustainable Operations</b> at UNSW Canberra orgranized by <a href="https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/dsar-group" target="_blank" style="color:#364850;font-weight:bold">Decision Support & Analytics Research Group (DSARG)</a>.
+* **[April]** — Attended a workshop on **Future of AI and Analytics for Sustainable Operations** at UNSW Canberra, organized by [Decision Support & Analytics Research Group (DSARG)](https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/dsar-group){:target="_blank"}.
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[January]</span> - A short paper has been accepted in for oral presentation in <a href="https://ecce2025.cuet.ac.bd/" target="_blank" style="color:#364850;font-weight:bold">ECCE 2025</a>.
-
+* **[January]** — A short paper accepted for oral presentation at [ECCE 2025](https://ecce2025.cuet.ac.bd/){:target="_blank"}.
 
 # 2024
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[October]</span> - Invited to serve as a <span style="color:#ec212a;font-weight:bold">Reviewer</span> in <a href="https://www.sciencedirect.com/journal/psychiatry-research" target="_blank" style="color:#364850;font-weight:bold">Psychiatry Research</a> Journal [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
+* **[October]** — Invited to serve as a **Reviewer** for [Psychiatry Research](https://www.sciencedirect.com/journal/psychiatry-research){:target="_blank"} Journal [**Q1**].
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[July]</span> - Invited to serve as a <span style="color:#ec212a;font-weight:bold">Reviewer</span> in <a href="https://www.nature.com/srep/" target="_blank" style="color:#364850;font-weight:bold">Scientific Reports</a> Journal [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
+* **[July]** — Invited to serve as a **Reviewer** for [Scientific Reports](https://www.nature.com/srep/){:target="_blank"} Journal [**Q1**].
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[April]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://www.techscience.com/CMES/v140n3/57248" target="_blank" style="color:#364850;font-weight:bold">CMES-Computer Modeling in Engineering & Sciences</a>. [<span style="color:#ec212a"><b>Quartile</b>: Q2</span>].</span>
+* **[April]** — A collaborative paper accepted in [CMES-Computer Modeling in Engineering & Sciences](https://www.techscience.com/CMES/v140n3/57248){:target="_blank"} [**Q2**].
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[April]</span> - Invited to serve as a <span style="color:#ec212a;font-weight:bold">Reviewer</span> in <a href="https://link.springer.com/journal/13042" target="_blank" style="color:#364850;font-weight:bold">International Journal of Machine Learning and Cybernetics </a> Journal [<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
+* **[April]** — Invited to serve as a **Reviewer** for [International Journal of Machine Learning and Cybernetics](https://link.springer.com/journal/13042){:target="_blank"} Journal [**Q1**].
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[April]</span> - A long <span style="color:#ec212a;font-weight:bold">collaborative</span> paper has been accepted in <a href="https://www.sciencedirect.com/science/article/pii/S2949719124000232" target="_blank" style="color:#364850;font-weight:bold">Natural Language Processing Journal</a>[<span style="color:#ec212a"><b>Quartile</b>: Q1</span>].</span>
+* **[April]** — A collaborative paper accepted in [Natural Language Processing Journal](https://www.sciencedirect.com/science/article/pii/S2949719124000232){:target="_blank"} [**Q1**].
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[January]</span> - Awarded a <b>Certificate of Appreciation</b> in recognition for research publication for the year of 2022-2023 from <a href="https://www.bubt.edu.bd/Home/page_details/BUBT_Research_Centre_BRC_" target="_blank" style="color:#364850;font-weight:bold">BUBT Research and Innovation Center (BRIC)</a>.
+* **[January]** — Awarded a **Certificate of Appreciation** in recognition of research publications for 2022–2023 from [BUBT Research and Innovation Center (BRIC)](https://www.bubt.edu.bd/Home/page_details/BUBT_Research_Centre_BRC_){:target="_blank"}.
 
 # 2023
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[November]</span> - Served as a Judge at <b>Innovative Research Idea Competition 2023</b> organized by <a href="https://www.bubt.edu.bd/" target="_blank" style="color:#364850;font-weight:bold">Bangladesh University of Business and Technology (BUBT)</a>.
+* **[November]** — Served as a **Judge** at **Innovative Research Idea Competition 2023**, organized by [Bangladesh University of Business and Technology (BUBT)](https://www.bubt.edu.bd/){:target="_blank"}.
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[November]</span> - Served in <a href="https://icpc.bubt.edu.bd/program-committee.php" target="_blank" style="color:#364850;font-weight:bold"> ICPC Program Sub-Committee </a> and <a href="https://icpc.bubt.edu.bd/" target="_blank" style="color:#364850;font-weight:bold"> ICPC Publicity Sub-Committee </a> as a member in the <a href="https://icpc.bubt.edu.bd/" target="_blank" style="color:#364850;font-weight:bold"> ICPC Asia Dhaka Regional Contest 2023</a>.
+* **[November]** — Served in [ICPC Program Sub-Committee](https://icpc.bubt.edu.bd/program-committee.php){:target="_blank"} and [ICPC Publicity Sub-Committee](https://icpc.bubt.edu.bd/){:target="_blank"} as a member in the [ICPC Asia Dhaka Regional Contest 2023](https://icpc.bubt.edu.bd/){:target="_blank"}.
+
+---
+
+# Find me on
+
+[Google Scholar](https://scholar.google.com/citations?user=7chm1qwAAAAJ){:target="_blank"} &#124;
+[ResearchGate](https://www.researchgate.net/profile/Khan_Hasib){:target="_blank"} &#124;
+[Semantic Scholar](https://www.semanticscholar.org/author/Khan-Md-Hasib/68973629){:target="_blank"} &#124;
+[ORCID](https://orcid.org/0000-0001-6504-4192){:target="_blank"} &#124;
+[LinkedIn](https://www.linkedin.com/in/khan-md-hasib-a83236128/){:target="_blank"} &#124;
+[GitHub](https://github.com/hasibaust13){:target="_blank"} &#124;
+[X (Twitter)](https://x.com/hasib_002){:target="_blank"}
