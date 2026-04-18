@@ -13,6 +13,8 @@ author_profile: true
 
 * **[February]** — A long conference paper on "Watermelon Disease Classification" [Deep Learning Research] under my co-supervision has been accepted for oral presentation in [QPAIN 2026](https://qpain.org){:target="_blank"}.
 
+* **[January]** — Started journey at [IEEE ACT Branch](https://r10.ieee.org/act/){:target="_blank"} as a **Student Representative** of [UNSW Canberra](https://www.unsw.edu.au/canberra){:target="_blank"}.
+
 # 2025
 
 * **[November]** — A long collaborative paper has been accepted under my co-supervision in [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy){:target="_blank"} Journal [**Q1**].
