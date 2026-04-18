@@ -9,7 +9,7 @@ author_profile: true
 
 * [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650){:target="_blank"} [**Q1**]
 * [Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society){:target="_blank"} [**Q1**]
-* [Journal of Computational Mathematics and Data Science](https://www.sciencedirect.com/journal/journal-of-computational-mathematics-and-data-science){:target="_blank"}
+* [Journal of Computational Mathematics and Data Science](https://www.sciencedirect.com/journal/journal-of-computational-mathematics-and-data-science){:target="_blank"} [**Q2**]
 * [Psychiatry Research](https://www.sciencedirect.com/journal/psychiatry-research){:target="_blank"} [**Q1**]
 * [Scientific Reports](https://www.nature.com/srep/){:target="_blank"} [**Q1**]
 * [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control){:target="_blank"} [**Q1**]
@@ -27,18 +27,25 @@ author_profile: true
 * [Computer Methods and Programs in Biomedicine Update](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine-update){:target="_blank"}
 * [Human-Centric Intelligent Systems](https://link.springer.com/journal/44230){:target="_blank"}
 * [Indonesian Journal of Electrical Engineering and Computer Science](https://ijeecs.iaescore.com/){:target="_blank"}
-* [Journal of Computer Science](https://thescipub.com/jcs){:target="_blank"}
+* [Journal of Computer Science](https://thescipub.com/jcs){:target="_blank"} [**Q4**]
 * [Journal of Engineering Advancements](https://journalofeam.com/){:target="_blank"}
+
+## Editorial Board
+
+* **Editorial Manager** — [International Journal of Intelligent Networks](https://www.sciencedirect.com/journal/international-journal-of-intelligent-networks){:target="_blank"}
 
 ---
 
 # Peer Review [Conference Proceedings]
 
-* **Technical Program Committee (TPC) Member** at [ICONIP 2022](https://www.apnns.org/ICONIP2022/){:target="_blank"} [**Core A Rank**]
+* **Technical Program Committee (TPC) Member** at [CETA 2025](https://www.ceta.net/sub.html){:target="_blank"}
+* **Technical Program Committee (TPC) Member** at [UEMCON 2023](https://ieee-uemcon.org/){:target="_blank"}
 * **Technical Program Committee (TPC) Member** at [IJCNN 2023](https://2023.ijcnn.org/){:target="_blank"}
 * **Technical Program Committee (TPC) Member** at CAIML 2023
 * **Technical Program Committee (TPC) Member** at [CBIoT 2023](https://sites.google.com/view/cbiot-2023/home){:target="_blank"}
 * **Technical Program Committee (TPC) Member** at [CCWC 2023](https://ieee-ccwc.org/){:target="_blank"}
+* **Technical Program Committee (TPC) Member** at [AIIoT 2023](https://worldaiiotcongress.org/){:target="_blank"}
+* **Technical Program Committee (TPC) Member** at [ICONIP 2022](https://www.apnns.org/ICONIP2022/){:target="_blank"} [**Core A Rank**]
 * **Technical Program Committee (TPC) Member** at [UEMCON 2022](https://ieee-uemcon.org/){:target="_blank"}
 * **Technical Program Committee (TPC) Member** at [IEMCON 2022](https://ieee-iemcon.org/){:target="_blank"}
 * **Technical Program Committee (TPC) Member** at [2ICML 2022](https://www.2icml.net/){:target="_blank"}
@@ -46,7 +53,6 @@ author_profile: true
 * **Technical Program Committee (TPC) Member** at NATL 2022
 * **Technical Program Committee (TPC) Member** at [CCWC 2022](https://ieee-ccwc.org/){:target="_blank"}
 * **Technical Program Committee (TPC) Member** at [UEMCON 2021](https://ieee-uemcon.org/){:target="_blank"}
-* **Technical Program Committee (TPC) Member** at [CETA 2025](https://www.ceta.net/sub.html){:target="_blank"}
 
 ---
 
@@ -84,8 +90,11 @@ author_profile: true
 
 # Professional Memberships
 
+* **Graduate Student Member** — [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/){:target="_blank"}
 * **Associate Student Member** — [Australian Computer Society (ACS)](https://www.acs.org.au/){:target="_blank"}, 2024 – Present
 * **Executive Member** — [Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/){:target="_blank"}, 2023 – Present
+* **Advisor** — [IEEE CS BUBT Student Branch Chapter](https://edu.ieee.org/bd-bubtcs/){:target="_blank"}, 2023 – Present
+* **Student Representative** — [IEEE ACT Branch](https://r10.ieee.org/act/){:target="_blank"}, UNSW Canberra, 2026 – Present
 
 ---
 
