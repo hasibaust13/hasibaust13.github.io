@@ -7,15 +7,15 @@ author_profile: true
 
 # PhD Researcher
 
-<img src="/images/logounsw.png" alt="UNSW Logo" style="height: 60px; margin-bottom: 10px;">
+<img src="/images/logounswcanberra.png" alt="UNSW Canberra Logo" style="height: 80px; margin-bottom: 10px;">
 
 **School of Systems and Computing**
 [The University of New South Wales (UNSW)](https://www.unsw.edu.au/canberra){:target="_blank"}, Canberra, Australia
 
 **Role:**
-* Build a knowledge graph integrating patient, disease, and risk factor data
-* Apply graph-based models to detect multimorbidity patterns and predict outcomes
-* Generate explainable insights to support clinical understanding and decisions
+* Develop structured representations by integrating diverse and complex data sources into a unified framework
+* Apply advanced analytical and computational methods to uncover patterns, relationships, and predictive signals
+* Derive interpretable insights to enhance understanding and support informed decision-making
 
 **Duration:** February 2025 to Present
 
