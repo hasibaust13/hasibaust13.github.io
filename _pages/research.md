@@ -18,10 +18,6 @@ Medical imaging plays a critical role in early diagnosis and treatment planning.
 
 * [Fusing Global Context with Multiscale Context for Enhanced Breast Cancer Classification](https://doi.org/10.1038/s41598-024-78363-w){:target="_blank"}. N Islam, **KM Hasib**, MF Mridha, S Alfarhood, M Safran, D Che. *Scientific Reports*, 2024.
 
-* [Deep Fusion Model for Brain Tumor Classification Using Fine-Grained Gradient Preservation](https://doi.org/10.48550/arXiv.2409.12585){:target="_blank"}. N Islam, MI Bhuiyan, JT Raya, NS Kamarudin, **KM Hasib**, MF Mridha, DM Farid. *arXiv preprint*, 2024.
-
-* [Leveraging Knowledge Distillation for Lightweight Skin Cancer Classification: Balancing Accuracy and Computational Efficiency](https://doi.org/10.48550/arXiv.2409.06932){:target="_blank"}. N Islam, **KM Hasib**, FA Joti, A Karim, S Azam. *arXiv preprint*, 2024.
-
 * [GliomaCNN: An Effective Lightweight CNN Model in Assessment of Classifying Brain Tumor from Magnetic Resonance Images Using Explainable AI](https://doi.org/10.32604/cmes.2024.050760){:target="_blank"}. MA Rahman, MI Masum, **KM Hasib**, MF Mridha, S Alfarhood, M Safran, D Che. *CMES-Computer Modeling in Engineering & Sciences*, 2024.
 
 * [DCNN: Deep Convolutional Neural Network with XAI for Efficient Detection of Specific Language Impairment in Children](https://doi.org/10.1109/access.2024.3431933){:target="_blank"}. **KM Hasib**, MF Mridha, MHK Mehedi, KO Faruk, RK Muna, S Iqbal, MR Islam, Y Watanobe. *IEEE Access*, 2024.
