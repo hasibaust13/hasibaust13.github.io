@@ -67,6 +67,35 @@ Supervisor: Faisal Muhammad Shah
 
 ---
 
+# Activities & Organizations
+
+* Certified on **Theater Course** by Bangladesh Shishu Academy, 2010
+* Certified on **Quantum Method Meditation** by Yoga Foundation, 2010
+* Certified **"Writing and Phonetics Course"** by Saifur's, 2011
+* Participated at **5th Bangladesh Chemistry Olympiad**, 2012
+* Participated at **Regional Mathematical Olympiad**, 2012
+* Govt. Certified on **COVID-19 Awareness and Prevention**
+* Certified on **COVID-19: Operational Planning Guidelines and COVID-19 Partners Platform** to support country preparedness and response
+* Certified on **"Basic Application Course"** by Daffodil Institute of IT, 2014
+* Certified on **Learn to Write Research Paper using LaTeX** by IEEE AUST, 2018
+* **Coursera Administrator Training Certificate**
+* Hosting a **NeurIPS meetup in Dhaka** for the very first time in Bangladesh as an Organizer, 2020
+
+---
+
+# Memberships
+
+* Active Member at **Debating Club** in MGBHS Debate Team, 2009–2011
+* Active Member at **Debating Club** in NDC Blue Team, 2012–2013
+* Executive Member at **AUST Innovation and Design Club**, 2017–2018
+* Member of the **Programming Contest Organizing Committee** in Bangladesh University, 2018
+* **Mentor** at [Basis Students Forum (BSF)](https://bsf.basis.org.bd/){:target="_blank"} to represent Bangladesh University
+* **Member**, Institute of Electrical and Electronic Engineers (IEEE), USA [IEEE Member # 96834810]
+* **Member**, IEEE Young Professionals
+* **Associate Member**, Bangladesh Computer Society, Bangladesh [Member # 15416]
+
+---
+
 # Find me on
 
 [Google Scholar](https://scholar.google.com/citations?user=7chm1qwAAAAJ){:target="_blank"} &#124;
