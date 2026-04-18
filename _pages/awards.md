@@ -28,45 +28,6 @@ author_profile: true
 
 ---
 
-# Research Experience
-
-**Postgraduate Research**, Department of CSE, BRAC University (July 2021 – February 2022)
-Thesis: *Sentiment Analysis on Bangladesh Airlines Review Data using Machine Learning*
-Supervisor: Md. Golam Rabiul Alam, PhD
-
-**Undergraduate Research**, Department of CSE, AUST (June 2017 – May 2018)
-Thesis: *A Hybrid Under-Sampling Method to Classify Imbalanced Data*
-Supervisor: Faisal Muhammad Shah
-
----
-
-# Research Group
-
-* **Lead Researcher** — [Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/){:target="_blank"}, 2023 – Present
-* **Member** — [Decision Support and Analytics Research Group (DSARG)](https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/dsar-group){:target="_blank"}, UNSW Canberra, 2025 – Present
-
----
-
-# Conference Presentations
-
-* **DICTA 2023** — International Conference on Digital Image Computing: Techniques and Applications, Port Macquarie, Australia
-* **TENCON 2022** — IEEE Region 10 Conference, Hong Kong
-* **HIS 2022** — 22nd International Conference on Hybrid Intelligent Systems, USA
-* **CCWC 2022** — IEEE 12th Annual Computing and Communication Workshop and Conference, Las Vegas, USA
-* **AIIoT 2022** — IEEE World AI IoT Congress, Washington, USA
-* **IEMCON 2021** — IEEE 12th Annual Information Technology, Electronics and Mobile Communication Conference, Vancouver, Canada
-* **IJCNN 2021** — IEEE International Joint Conference on Neural Networks, Shenzhen, China
-
----
-
-# Research Talks
-
-* **Keynote Speaker** — [Harnessing Large Language Models (LLMs) for Next-Gen AI Research & PhD Funding Pathways in Australia](https://www.facebook.com/events/1931376380999571/){:target="_blank"}, organized by AMIRL (May 2025)
-* **Keynote Speaker** — [PhD in Australia](https://www.facebook.com/events/1041764287735375/){:target="_blank"}, organized by IEEE BUBT Student Branch (September 2024)
-* **Guest Speaker** — "Research Techniques and a Quality-Oriented Mindset", IEEE BUBT Student Branch
-
----
-
 # Activities & Organizations
 
 * Certified on **Theater Course** by Bangladesh Shishu Academy, 2010
