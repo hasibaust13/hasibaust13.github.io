@@ -5,7 +5,25 @@ permalink: /experience/
 author_profile: true
 ---
 
+# PhD Researcher
+
+<img src="/images/logounsw.png" alt="UNSW Logo" style="height: 60px; margin-bottom: 10px;">
+
+**School of Systems and Computing**
+[The University of New South Wales (UNSW)](https://www.unsw.edu.au/canberra){:target="_blank"}, Canberra, Australia
+
+**Role:**
+* Build a knowledge graph integrating patient, disease, and risk factor data
+* Apply graph-based models to detect multimorbidity patterns and predict outcomes
+* Generate explainable insights to support clinical understanding and decisions
+
+**Duration:** February 2025 to Present
+
+---
+
 # Research Associate
+
+<img src="/images/logoAMIRL.png" alt="AMIRL Logo" style="height: 50px; margin-bottom: 10px; background: #333; padding: 5px; border-radius: 5px;">
 
 **[Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/){:target="_blank"}**
 
@@ -19,6 +37,8 @@ author_profile: true
 ---
 
 # Assistant Professor
+
+<img src="/images/bubt1.png" alt="BUBT Logo" style="height: 60px; margin-bottom: 10px;">
 
 **Department of Computer Science and Engineering**
 [Bangladesh University of Business and Technology (BUBT)](https://www.bubt.edu.bd/){:target="_blank"}
@@ -40,6 +60,8 @@ author_profile: true
 
 # Lecturer
 
+<img src="/images/bubt1.png" alt="BUBT Logo" style="height: 60px; margin-bottom: 10px;">
+
 **Department of Computer Science and Engineering**
 [Bangladesh University of Business and Technology (BUBT)](https://www.bubt.edu.bd/){:target="_blank"}
 
@@ -56,6 +78,8 @@ author_profile: true
 ---
 
 # Lecturer
+
+<img src="/images/logoSUB.png" alt="SUB Logo" style="height: 60px; margin-bottom: 10px;">
 
 **Department of Computer Science and Engineering**
 [State University of Bangladesh (SUB)](https://www.sub.ac.bd/){:target="_blank"}
@@ -75,6 +99,8 @@ author_profile: true
 
 # Lecturer
 
+<img src="/images/logoBU.png" alt="Bangladesh University Logo" style="height: 60px; margin-bottom: 10px;">
+
 **Department of Computer Science and Engineering**
 [Bangladesh University](https://bu.edu.bd/){:target="_blank"}
 
@@ -92,6 +118,8 @@ author_profile: true
 
 # Adjunct Lecturer
 
+<img src="/images/LogoAust.png" alt="AUST Logo" style="height: 60px; margin-bottom: 10px;">
+
 **Department of Computer Science and Engineering**
 [Ahsanullah University of Science & Technology (AUST)](https://aust.edu/){:target="_blank"}
 
@@ -105,6 +133,8 @@ author_profile: true
 ---
 
 # Departmental Coordinator
+
+<img src="/images/logoBU.png" alt="Bangladesh University Logo" style="height: 60px; margin-bottom: 10px;">
 
 **Department of Computer Science and Engineering**
 [Bangladesh University](https://bu.edu.bd/){:target="_blank"}
@@ -121,6 +151,8 @@ author_profile: true
 
 # Assistant Project Coordinator
 
+<img src="/images/logoBritishCouncil.png" alt="British Council Logo" style="height: 50px; margin-bottom: 10px;">
+
 **[British Council Bangladesh](https://www.britishcouncil.org.bd/en){:target="_blank"}**
 
 **Role:**
@@ -134,6 +166,8 @@ author_profile: true
 ---
 
 # ICT Trainer
+
+<img src="/images/logoMicrosoft.png" alt="Microsoft Logo" style="height: 60px; margin-bottom: 10px;">
 
 **Microsoft Bangladesh Limited**
 
