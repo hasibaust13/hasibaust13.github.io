@@ -28,7 +28,7 @@ author_profile: true
 * [Human-Centric Intelligent Systems](https://link.springer.com/journal/44230){:target="_blank"}
 * [Indonesian Journal of Electrical Engineering and Computer Science](https://ijeecs.iaescore.com/){:target="_blank"}
 * [Journal of Computer Science](https://thescipub.com/jcs){:target="_blank"} [**Q4**]
-* [Journal of Engineering Advancements](https://journalofeam.com/){:target="_blank"}
+* [Journal of Engineering Advancements](https://scienpg.com/jea/index.php/jea){:target="_blank"}
 
 ## Editorial Board
 
@@ -93,7 +93,7 @@ author_profile: true
 * **Graduate Student Member** — [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/){:target="_blank"}
 * **Associate Student Member** — [Australian Computer Society (ACS)](https://www.acs.org.au/){:target="_blank"}, 2024 – Present
 * **Executive Member** — [Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/){:target="_blank"}, 2023 – Present
-* **Advisor** — [IEEE CS BUBT Student Branch Chapter](https://edu.ieee.org/bd-bubtcs/){:target="_blank"}, 2023 – Present
+* **Advisor** — [IEEE CS BUBT Student Branch Chapter](https://www.facebook.com/ieeecsbubtsbc/){:target="_blank"}, 2023 – Present
 * **Student Representative** — [IEEE ACT Branch](https://r10.ieee.org/act/){:target="_blank"}, UNSW Canberra, 2026 – Present
 
 ---
