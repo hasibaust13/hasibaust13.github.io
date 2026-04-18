@@ -7,37 +7,37 @@ author_profile: true
 
 # 2026
 
-* **[April]** — The second abstract related to my PhD research has been accepted for oral presentation at **CHARM 2026**.
+* **[April]** — The second abstract related to my PhD research has been accepted for oral presentation at [CHARM 2026](https://www.act.gov.au/health/conducting-health-research/charm){:target="_blank"}.
 
-* **[April]** — Invited to serve as a **Reviewer** in **IEEE Transactions on Computational Social Systems** Journal [**Q1**].
+* **[April]** — Invited to serve as a **Reviewer** in [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650){:target="_blank"} Journal [**Q1**].
 
-* **[February]** — A long conference paper on "Watermelon Disease Classification" [Deep Learning Research] under my co-supervision has been accepted for oral presentation in **QPAIN 2026**.
+* **[February]** — A long conference paper on "Watermelon Disease Classification" [Deep Learning Research] under my co-supervision has been accepted for oral presentation in [QPAIN 2026](https://qpain.org){:target="_blank"}.
 
 # 2025
 
-* **[November]** — A long collaborative paper has been accepted under my co-supervision in **Case Studies on Transport Policy** Journal [**Q1**].
+* **[November]** — A long collaborative paper has been accepted under my co-supervision in [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy){:target="_blank"} Journal [**Q1**].
 
 * **[October]** — Reached **2000** citations on my Google Scholar profile!
 
 * **[October]** — Nominated as an **Equity Diversity and Inclusion (EDI) Officer** at [Arc Canberra](https://www.arc.unsw.edu.au/canberra){:target="_blank"} for the year of 2026.
 
-* **[October]** — A long conference paper on "PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification" [Computer Vision Research] under my co-supervision has been accepted for oral presentation in **IEEE i-COSTA 2025**.
+* **[October]** — A long conference paper on "PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification" [Computer Vision Research] under my co-supervision has been accepted for oral presentation in [IEEE i-COSTE 2025](https://i-coste.org/){:target="_blank"}.
 
-* **[October]** — A long collaborative paper has been accepted under my co-supervision in **Scientific Reports** Journal [**Q1**].
+* **[October]** — A long collaborative paper has been accepted under my co-supervision in [Scientific Reports](https://www.nature.com/srep/){:target="_blank"} Journal [**Q1**].
 
-* **[September]** — A long collaborative paper has been accepted under my co-supervision in **International Journal of Disaster Risk Reduction** Journal [**Q1**].
+* **[September]** — A long collaborative paper has been accepted under my co-supervision in [International Journal of Disaster Risk Reduction](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction){:target="_blank"} Journal [**Q1**].
 
-* **[August]** — The very first abstract related to my PhD research has been accepted for oral presentation at **Science of Ageing Well Symposium 2025**.
+* **[August]** — The very first abstract related to my PhD research has been accepted for oral presentation at [Science of Ageing Well Symposium 2025](https://www.unsw.edu.au/research/unsw-ageing-futures/events/2025-annual-research-symposium){:target="_blank"}.
 
-* **[August]** — Invited to serve as a **Technical Program Committee Member** in **CETA 2025**.
+* **[August]** — Invited to serve as a **Technical Program Committee Member** in [CETA 2025](https://www.ceta.net/sub.html){:target="_blank"}.
 
-* **[August]** — Invited to serve as a **Reviewer** in **Sustainable Cities and Society** Journal [**Q1**].
+* **[August]** — Invited to serve as a **Reviewer** in [Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society){:target="_blank"} Journal [**Q1**].
 
 * **[June]** — Invited to serve as a **Reviewer** for [Journal of Computational Mathematics and Data Science](https://www.sciencedirect.com/journal/journal-of-computational-mathematics-and-data-science){:target="_blank"} [**Q2**].
 
-* **[June]** — A long collaborative paper has been accepted under my co-supervision in **International Journal of Information Management Data Insights** Journal [**Q1**].
+* **[June]** — A long collaborative paper has been accepted under my co-supervision in [International Journal of Information Management Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights){:target="_blank"} Journal [**Q1**].
 
-* **[May]** — Invited as a **Keynote Speaker** for the webinar [Harnessing Large Language Models (LLMs) for Next-Gen AI Research & PhD Funding Pathways in Australia](https://www.facebook.com/events/1931376380999571/){:target="_blank"}, organized by Advanced Machine Intelligence Research Lab (AMIRL).
+* **[May]** — Invited as a **Keynote Speaker** for the webinar [Harnessing Large Language Models (LLMs) for Next-Gen AI Research & PhD Funding Pathways in Australia](https://www.facebook.com/events/1931376380999571/){:target="_blank"}, organized by [Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/){:target="_blank"}.
 
 * **[May]** — A short paper accepted for oral presentation at [CITIC 2025](https://difcon.mmu.edu.my/citic.html){:target="_blank"}.
 
@@ -53,15 +53,15 @@ author_profile: true
 
 * **[October]** — Invited to serve as a **Reviewer** for [Psychiatry Research](https://www.sciencedirect.com/journal/psychiatry-research){:target="_blank"} Journal [**Q1**].
 
-* **[October]** — A long collaborative paper has been accepted in **Scientific Reports** Journal [**Q1**].
+* **[October]** — A long collaborative paper has been accepted in [Scientific Reports](https://www.nature.com/srep/){:target="_blank"} Journal [**Q1**].
 
-* **[September]** — Invited as a **Keynote Speaker** in an online webinar titled "Ph.D. in Australia" organized by **IEEE BUBT Student Branch**.
+* **[September]** — Invited as a **Keynote Speaker** in an online webinar titled "Ph.D. in Australia" organized by [IEEE BUBT Student Branch](https://www.bubt.edu.bd/Home/page_details/IEEE_BUBT_Student_Branch){:target="_blank"}.
 
-* **[August]** — A long collaborative paper has been accepted in **Neural Computing and Applications** Journal [**Q1**].
+* **[August]** — A long collaborative paper has been accepted in [Neural Computing and Applications](https://link.springer.com/journal/521){:target="_blank"} Journal [**Q1**].
 
-* **[July]** — A long paper (first author) has been accepted in **SN Computer Science** Journal [**Q2**].
+* **[July]** — A long paper (first author) has been accepted in [SN Computer Science](https://link.springer.com/journal/42979){:target="_blank"} Journal [**Q2**].
 
-* **[July]** — A long paper (first author) has been accepted in **IEEE Access** Journal [**Q1**].
+* **[July]** — A long paper (first author) has been accepted in [IEEE Access](https://ieeeaccess.ieee.org/){:target="_blank"} Journal [**Q1**].
 
 * **[July]** — Invited to serve as a **Reviewer** for [Scientific Reports](https://www.nature.com/srep/){:target="_blank"} Journal [**Q1**].
 
@@ -69,11 +69,11 @@ author_profile: true
 
 * **[June]** — A long conference paper has been accepted under my supervision in **COMPAS 2024**.
 
-* **[May]** — Invited to serve as a **Reviewer** in **Biomedical Signal Processing and Control** Journal [**Q1**].
+* **[May]** — Invited to serve as a **Reviewer** in [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control){:target="_blank"} Journal [**Q1**].
 
-* **[May]** — Invited to serve as a **Reviewer** in **Computer Speech & Language** Journal [**Q1**].
+* **[May]** — Invited to serve as a **Reviewer** in [Computer Speech & Language](https://www.sciencedirect.com/journal/computer-speech-and-language){:target="_blank"} Journal [**Q1**].
 
-* **[April]** — Invited to serve as a **Reviewer** for **Artificial Intelligence in Medicine** Journal [**Q1**].
+* **[April]** — Invited to serve as a **Reviewer** for [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine){:target="_blank"} Journal [**Q1**].
 
 * **[April]** — Invited to serve as a **Reviewer** for [International Journal of Machine Learning and Cybernetics](https://link.springer.com/journal/13042){:target="_blank"} Journal [**Q1**].
 
@@ -89,7 +89,7 @@ author_profile: true
 
 * **[February]** — Reached **800** citations on my Google Scholar profile!
 
-* **[February]** — A long conference paper has been accepted for oral presentation at **Asian Conference on Intelligent Information and Database Systems** [**Core B Rank**].
+* **[February]** — A long conference paper has been accepted for oral presentation at [Asian Conference on Intelligent Information and Database Systems](https://aciids.pwr.edu.pl/2024/){:target="_blank"} [**Core B Rank**].
 
 * **[January]** — Awarded a **Certificate of Appreciation** in recognition of research publications for 2022–2023 from [BUBT Research and Innovation Center (BRIC)](https://www.bubt.edu.bd/Home/page_details/BUBT_Research_Centre_BRC_){:target="_blank"}.
 
@@ -101,131 +101,131 @@ author_profile: true
 
 * **[October]** — I got a fully funded **Ph.D. offer** from **The University of Western Australia**.
 
-* **[October]** — A long paper has been accepted in **IEEE Access** Journal [**Q1**].
+* **[October]** — A long paper has been accepted in [IEEE Access](https://ieeeaccess.ieee.org/){:target="_blank"} Journal [**Q1**].
 
-* **[October]** — A short paper has been accepted for oral presentation at **EMNLP 2023 Workshop BLP** [**Core A\***].
+* **[October]** — A short paper has been accepted for oral presentation at [EMNLP 2023 Workshop BLP](https://blp-workshop.github.io/2023/){:target="_blank"} [**Core A\***].
 
-* **[October]** — Attended a seminar on "Enhancing Students Programming Skills through Problem Solving" organized by the Department of CSE, Bangladesh University of Business and Technology.
+* **[October]** — Attended a seminar on "Enhancing Students Programming Skills through Problem Solving" organized by the Department of CSE, [Bangladesh University of Business and Technology](https://www.bubt.edu.bd/){:target="_blank"}.
 
-* **[October]** — A long paper has been accepted for oral presentation at **ICCI 2023**.
+* **[October]** — A long paper has been accepted for oral presentation at [ICCI 2023](https://scrs.in/conference/icci2023){:target="_blank"}.
 
-* **[September]** — Invited to serve as a **Reviewer** in **Data in Brief** Journal [**Q2**].
+* **[September]** — Invited to serve as a **Reviewer** in [Data in Brief](https://www.sciencedirect.com/journal/data-in-brief){:target="_blank"} Journal [**Q2**].
 
-* **[September]** — Attended a workshop on "Preparing Requirement for BAC Accreditation" organized by the Department of CSE, Bangladesh University of Business and Technology.
+* **[September]** — Attended a workshop on "Preparing Requirement for BAC Accreditation" organized by the Department of CSE, [Bangladesh University of Business and Technology](https://www.bubt.edu.bd/){:target="_blank"}.
 
 * **[September]** — Reached **500** citations on my Google Scholar profile!
 
-* **[September]** — Invited to serve as a **Reviewer** in **Engineering Applications of Artificial Intelligence** Journal [**Q1**].
+* **[September]** — Invited to serve as a **Reviewer** in [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence){:target="_blank"} Journal [**Q1**].
 
-* **[August]** — Invited to serve as a **Reviewer** in **Information Processing and Management** Journal [**Q1**].
+* **[August]** — Invited to serve as a **Reviewer** in [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management){:target="_blank"} Journal [**Q1**].
 
-* **[August]** — Invited to serve as a **Reviewer** in **Expert Systems with Applications** Journal [**Q1**].
+* **[August]** — Invited to serve as a **Reviewer** in [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications){:target="_blank"} Journal [**Q1**].
 
-* **[July]** — Invited as a **Keynote Speaker** from IEEE BUBT Student Branch to deliver a speech on "The Future of Careers: Artificial Intelligence, Robotics, Machine Learning and AR/VR" seminar.
+* **[July]** — Invited as a **Keynote Speaker** from [IEEE BUBT Student Branch](https://www.bubt.edu.bd/Home/page_details/IEEE_BUBT_Student_Branch){:target="_blank"} to deliver a speech on "The Future of Careers: Artificial Intelligence, Robotics, Machine Learning and AR/VR" seminar.
 
-* **[July]** — A long paper has been accepted in **IEEE Access** Journal [**Q1**].
+* **[July]** — A long paper has been accepted in [IEEE Access](https://ieeeaccess.ieee.org/){:target="_blank"} Journal [**Q1**].
 
-* **[July]** — Joined as an **Advisor** at **IEEE CS BUBT Student Branch Chapter**, BUBT.
+* **[July]** — Joined as an **Advisor** at [IEEE CS BUBT Student Branch Chapter](https://edu.ieee.org/bd-bubtcs/){:target="_blank"}, BUBT.
 
-* **[July]** — A long paper has been accepted for oral presentation at **BIM 2023**.
+* **[July]** — A long paper has been accepted for oral presentation at [BIM 2023](https://confbim.com/){:target="_blank"}.
 
 * **[July]** — Reached **400** citations on my Google Scholar profile!
 
-* **[June]** — A dataset has been published in **Mendeley Data** named **BANGLADESHI CHILDREN LANGUAGE IMPAIRMENT DATASET**.
+* **[June]** — A dataset has been published in [Mendeley Data](https://data.mendeley.com/){:target="_blank"} named **BANGLADESHI CHILDREN LANGUAGE IMPAIRMENT DATASET**.
 
-* **[June]** — A long paper has been accepted in **Engineering Applications of Artificial Intelligence** Journal.
+* **[June]** — A long paper has been accepted in [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence){:target="_blank"} Journal.
 
-* **[June]** — A long paper has been accepted in **PLoS ONE** Journal [**Q1**].
+* **[June]** — A long paper has been accepted in [PLoS ONE](https://journals.plos.org/plosone/){:target="_blank"} Journal [**Q1**].
 
-* **[June]** — Joined as a **Research Associate** at **Advanced Machine Intelligence Research Lab (AMIRL)**.
+* **[June]** — Joined as a **Research Associate** at [Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/){:target="_blank"}.
 
-* **[May]** — One long paper under my supervision has been accepted for oral presentation at **NCIM 2023**.
+* **[May]** — One long paper under my supervision has been accepted for oral presentation at [NCIM 2023](https://confncim.com/){:target="_blank"}.
 
-* **[May]** — Invited as a **Guest Speaker** from IEEE BUBT Student Branch to deliver a speech on "Research Techniques and a Quality-Oriented Mindset" seminar.
+* **[May]** — Invited as a **Guest Speaker** from [IEEE BUBT Student Branch](https://www.bubt.edu.bd/Home/page_details/IEEE_BUBT_Student_Branch){:target="_blank"} to deliver a speech on "Research Techniques and a Quality-Oriented Mindset" seminar.
 
-* **[May]** — Two long papers under my supervision have been accepted for oral presentation at **AIIoT 2023**.
+* **[May]** — Two long papers under my supervision have been accepted for oral presentation at [AIIoT 2023](https://worldaiiotcongress.org/){:target="_blank"}.
 
 * **[April]** — Reached **300** citations on my Google Scholar profile!
 
-* **[April]** — Invited to serve as a **Technical Program Committee Member** in **AIIoT 2023**.
+* **[April]** — Invited to serve as a **Technical Program Committee Member** in [AIIoT 2023](https://worldaiiotcongress.org/){:target="_blank"}.
 
-* **[March]** — Attended a workshop on "Designing and Assessing Complex Engineering Problem" organized by the Department of CSE, Bangladesh University of Business and Technology.
+* **[March]** — Attended a workshop on "Designing and Assessing Complex Engineering Problem" organized by the Department of CSE, [Bangladesh University of Business and Technology](https://www.bubt.edu.bd/){:target="_blank"}.
 
-* **[March]** — A long paper has been accepted for oral presentation at **ICCTA 2023**.
+* **[March]** — A long paper has been accepted for oral presentation at [ICCTA 2023](https://www.iccta.net/){:target="_blank"}.
 
-* **[March]** — Invited to serve as an **Editorial Manager** in the **International Journal of Intelligent Networks** Journal.
+* **[March]** — Invited to serve as an **Editorial Manager** in the [International Journal of Intelligent Networks](https://www.sciencedirect.com/journal/international-journal-of-intelligent-networks){:target="_blank"} Journal.
 
-* **[February]** — Three long papers under my supervision have been accepted for oral presentation at **13th IEEE CCWC 2023**.
+* **[February]** — Three long papers under my supervision have been accepted for oral presentation at [13th IEEE CCWC 2023](https://ieee-ccwc.org/){:target="_blank"}.
 
-* **[February]** — A long paper has been accepted in **IEEE Access** Journal [**Q1**].
+* **[February]** — A long paper has been accepted in [IEEE Access](https://ieeeaccess.ieee.org/){:target="_blank"} Journal [**Q1**].
 
-* **[February]** — Invited to serve as a **Technical Program Committee Member** in **IJCNN 2023**.
+* **[February]** — Invited to serve as a **Technical Program Committee Member** in [IJCNN 2023](https://2023.ijcnn.org/){:target="_blank"}.
 
 * **[January]** — Promoted to **Assistant Professor** at Department of CSE in [Bangladesh University of Business and Technology (BUBT)](https://www.bubt.edu.bd/){:target="_blank"}.
 
 # 2022
 
-* **[December]** — Awarded **Best Paper** in **Human-Centric Intelligent Systems** Journal in the year of 2022.
+* **[December]** — Awarded **Best Paper** in [Human-Centric Intelligent Systems](https://link.springer.com/journal/44230){:target="_blank"} Journal in the year of 2022.
 
-* **[November]** — A long paper has been accepted in **Scientific Reports** Journal [**Q1**].
+* **[November]** — A long paper has been accepted in [Scientific Reports](https://www.nature.com/srep/){:target="_blank"} Journal [**Q1**].
 
-* **[November]** — Invited to serve as a **Reviewer** in **PLoS ONE** Journal [**Q1**].
+* **[November]** — Invited to serve as a **Reviewer** in [PLoS ONE](https://journals.plos.org/plosone/){:target="_blank"} Journal [**Q1**].
 
-* **[November]** — A long paper has been accepted in **Human-Centric Intelligent Systems** Journal.
+* **[November]** — A long paper has been accepted in [Human-Centric Intelligent Systems](https://link.springer.com/journal/44230){:target="_blank"} Journal.
 
 * **[November]** — Reached **200** citations on my Google Scholar profile!
 
-* **[November]** — A long paper has been accepted in **IEEE Transactions on Computational Social Systems** Journal [**Q1**].
+* **[November]** — A long paper has been accepted in [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650){:target="_blank"} Journal [**Q1**].
 
-* **[November]** — Invited to serve as a **Technical Program Committee Member** in **UEMCON 2023**.
+* **[November]** — Invited to serve as a **Technical Program Committee Member** in [UEMCON 2023](https://ieee-uemcon.org/){:target="_blank"}.
 
 * **[November]** — Invited to serve as a **Technical Program Committee Member** in **CBIoT 2023**.
 
-* **[November]** — A long paper under my supervision has been accepted for oral presentation at **22nd HIS 2022**.
+* **[November]** — A long paper under my supervision has been accepted for oral presentation at [22nd HIS 2022](http://www.mirlabs.net/his22/){:target="_blank"}.
 
-* **[October]** — Another long paper has been accepted in **IEEE Access** Journal [**Q1**].
+* **[October]** — Another long paper has been accepted in [IEEE Access](https://ieeeaccess.ieee.org/){:target="_blank"} Journal [**Q1**].
 
-* **[October]** — Served in **ICPC Program Committee** as an executive member in the **ICPC Asia Dhaka Regional Contest 2021**.
+* **[October]** — Served in **ICPC Program Committee** as an executive member in the [ICPC Asia Dhaka Regional Contest 2021](https://icpc.bubt.edu.bd/){:target="_blank"}.
 
-* **[October]** — A long paper has been accepted in **IEEE Access** Journal [**Q1**].
+* **[October]** — A long paper has been accepted in [IEEE Access](https://ieeeaccess.ieee.org/){:target="_blank"} Journal [**Q1**].
 
-* **[October]** — Served in **ICPC Invitation and Reception Committee** as an executive member in the **ICPC Asia Dhaka Regional Contest 2021**.
+* **[October]** — Served in **ICPC Invitation and Reception Committee** as an executive member in the [ICPC Asia Dhaka Regional Contest 2021](https://icpc.bubt.edu.bd/){:target="_blank"}.
 
-* **[September]** — Two long papers under my supervision have been accepted for oral presentation at **13th IEEE IEMCON 2022**.
+* **[September]** — Two long papers under my supervision have been accepted for oral presentation at [13th IEEE IEMCON 2022](https://ieee-iemcon.org/){:target="_blank"}.
 
 * **[September]** — A long paper has been accepted for oral presentation at **TENCON 2022**.
 
-* **[September]** — Performed **team coach** role for one team in **ICPC Asia Dhaka Regional Contest 2021**.
+* **[September]** — Performed **team coach** role for one team in [ICPC Asia Dhaka Regional Contest 2021](https://icpc.bubt.edu.bd/){:target="_blank"}.
 
-* **[August]** — Invited to serve as a **Reviewer** in **Cybernetics and Systems** Journal.
+* **[August]** — Invited to serve as a **Reviewer** in [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20){:target="_blank"} Journal.
 
-* **[July]** — A long paper has been accepted for oral presentation at **HCist 2022**.
+* **[July]** — A long paper has been accepted for oral presentation at [HCist 2022](https://hcist.scika.org/){:target="_blank"}.
 
-* **[July]** — Invited to serve as a **Reviewer** in **Frontiers in Medicine** Journal [**Q1**].
+* **[July]** — Invited to serve as a **Reviewer** in [Frontiers in Medicine](https://www.frontiersin.org/journals/medicine){:target="_blank"} Journal [**Q1**].
 
-* **[July]** — A long paper has been accepted in **Frontiers in Medicine** Journal [**Q1**].
+* **[July]** — A long paper has been accepted in [Frontiers in Medicine](https://www.frontiersin.org/journals/medicine){:target="_blank"} Journal [**Q1**].
 
-* **[July]** — Invited to serve as a **Technical Program Committee Member** in **ICONIP 2022**.
+* **[July]** — Invited to serve as a **Technical Program Committee Member** in [ICONIP 2022](https://www.apnns.org/ICONIP2022/){:target="_blank"}.
 
-* **[July]** — A long paper has been accepted in **Frontiers in Oncology** Journal — my first **Q1** journal!
+* **[July]** — A long paper has been accepted in [Frontiers in Oncology](https://www.frontiersin.org/journals/oncology){:target="_blank"} Journal — my first **Q1** journal!
 
-* **[June]** — Invited to serve as a **Reviewer** in **Applied Artificial Intelligence** Journal [**Q2**].
+* **[June]** — Invited to serve as a **Reviewer** in [Applied Artificial Intelligence](https://www.tandfonline.com/journals/uaai20){:target="_blank"} Journal [**Q2**].
 
-* **[June]** — Invited to serve as a **Technical Program Committee Member** in **2ICML 2022**.
+* **[June]** — Invited to serve as a **Technical Program Committee Member** in [2ICML 2022](https://www.2icml.net/){:target="_blank"}.
 
-* **[June]** — Invited to serve as a **Technical Program Committee Member** in **13th IEEE UEMCON 2022**.
+* **[June]** — Invited to serve as a **Technical Program Committee Member** in [13th IEEE UEMCON 2022](https://ieee-uemcon.org/){:target="_blank"}.
 
-* **[June]** — Invited to serve as a **Technical Program Committee Member** in **13th IEEE IEMCON 2022**.
+* **[June]** — Invited to serve as a **Technical Program Committee Member** in [13th IEEE IEMCON 2022](https://ieee-iemcon.org/){:target="_blank"}.
 
-* **[May]** — Attended a workshop on "Research Methodology and Mindset for Quality Research" organized by the Department of CSE, Bangladesh University of Business and Technology.
+* **[May]** — Attended a workshop on "Research Methodology and Mindset for Quality Research" organized by the Department of CSE, [Bangladesh University of Business and Technology](https://www.bubt.edu.bd/){:target="_blank"}.
 
-* **[May]** — Published online copy of my M.Sc. Thesis at **BRAC University Portal**.
+* **[May]** — Published online copy of my M.Sc. Thesis at [BRAC University Portal](https://dspace.bracu.ac.bd/){:target="_blank"}.
 
 * **[May]** — Reached **100** citations on my Google Scholar profile!
 
-* **[May]** — A long paper has been accepted for oral presentation at **AIIOT 2022**.
+* **[May]** — A long paper has been accepted for oral presentation at [AIIOT 2022](https://worldaiiotcongress.org/){:target="_blank"}.
 
-* **[May]** — Invited to serve as a **Technical Program Committee Member** at **AIIOT 2022**.
+* **[May]** — Invited to serve as a **Technical Program Committee Member** at [AIIOT 2022](https://worldaiiotcongress.org/){:target="_blank"}.
 
 * **[May]** — A first long paper under my supervision has been accepted for oral presentation at **10th IEEE R10HTC 2022**.
 
@@ -233,87 +233,87 @@ author_profile: true
 
 * **[March]** — Successfully completed my **M.Sc. in CSE**.
 
-* **[February]** — Nominated **Best Presenter Award** for one of our papers in the session of Big Data Management and Analytics at **12th IEEE CCWC 2022**.
+* **[February]** — Nominated **Best Presenter Award** for one of our papers in the session of Big Data Management and Analytics at [12th IEEE CCWC 2022](https://ieee-ccwc.org/){:target="_blank"}.
 
-* **[February]** — One paper won the **Best Paper Award** under the Artificial Intelligence and Machine Learning session at **12th IEEE CCWC 2022**.
+* **[February]** — One paper won the **Best Paper Award** under the Artificial Intelligence and Machine Learning session at [12th IEEE CCWC 2022](https://ieee-ccwc.org/){:target="_blank"}.
 
-* **[February]** — Successfully defended my **M.Sc. Thesis** under **BRAC University**.
+* **[February]** — Successfully defended my **M.Sc. Thesis** under [BRAC University](https://www.bracu.ac.bd/){:target="_blank"}.
 
-* **[January]** — Invited to serve as a **Reviewer** in **Journal of Computer Science** [**Q4**].
+* **[January]** — Invited to serve as a **Reviewer** in [Journal of Computer Science](https://thescipub.com/jcs){:target="_blank"} [**Q4**].
 
 * **[January]** — Joined as a **Lecturer** in the Department of CSE, [Bangladesh University of Business and Technology (BUBT)](https://www.bubt.edu.bd/){:target="_blank"}.
 
-* **[January]** — A long paper has been accepted for oral presentation at **12th IEEE CCWC 2022**.
+* **[January]** — A long paper has been accepted for oral presentation at [12th IEEE CCWC 2022](https://ieee-ccwc.org/){:target="_blank"}.
 
-* **[January]** — Invited to serve as a **Technical Program Committee Member** at **12th IEEE CCWC 2022**.
+* **[January]** — Invited to serve as a **Technical Program Committee Member** at [12th IEEE CCWC 2022](https://ieee-ccwc.org/){:target="_blank"}.
 
 # 2021
 
-* **[December]** — Invited to serve as a **Reviewer** for **Human-Centric Intelligent Systems**.
+* **[December]** — Invited to serve as a **Reviewer** for [Human-Centric Intelligent Systems](https://link.springer.com/journal/44230){:target="_blank"}.
 
-* **[November]** — Invited to serve as a **Technical Program Committee Member** at **12th IEEE UEMCON 2021**.
+* **[November]** — Invited to serve as a **Technical Program Committee Member** at [12th IEEE UEMCON 2021](https://ieee-uemcon.org/){:target="_blank"}.
 
 * **[November]** — A long paper has been accepted for oral presentation at **5th IEEE ICEEICT 2021**.
 
-* **[October]** — One paper won the **Best Paper Award** under Signal Detection and Processing session at **12th IEEE IEMCON 2021**.
+* **[October]** — One paper won the **Best Paper Award** under Signal Detection and Processing session at [12th IEEE IEMCON 2021](https://ieee-iemcon.org/){:target="_blank"}.
 
-* **[August]** — Two long papers have been accepted for oral presentation at **12th IEEE IEMCON 2021**.
+* **[August]** — Two long papers have been accepted for oral presentation at [12th IEEE IEMCON 2021](https://ieee-iemcon.org/){:target="_blank"}.
 
-* **[August]** — Two long papers have been accepted for oral presentation at **IEEE R-10 HTC 2021**.
+* **[August]** — Two long papers have been accepted for oral presentation at [IEEE R-10 HTC 2021](https://attend.ieee.org/r10htc-2021/){:target="_blank"}.
 
 * **[May]** — A long paper has been accepted as a **Book Chapter** at **AICSII 2021**.
 
-* **[April]** — Two long papers have been accepted for oral presentation at **IJCNN 2021** — my first **Core A** rank conference papers!
+* **[April]** — Two long papers have been accepted for oral presentation at [IJCNN 2021](https://www.ijcnn.org/){:target="_blank"} — my first **Core A** rank conference papers!
 
-* **[March]** — A long paper has been accepted in **IJCAC** Journal.
+* **[March]** — A long paper has been accepted in [IJCAC](https://www.igi-global.com/journal/international-journal-cloud-applications-computing/41974){:target="_blank"} Journal.
 
-* **[February]** — Joined as a **Lecturer** in the Department of CSE, **State University of Bangladesh (SUB)**.
+* **[February]** — Joined as a **Lecturer** in the Department of CSE, [State University of Bangladesh (SUB)](https://www.sub.ac.bd/){:target="_blank"}.
 
-* **[January]** — A long paper has been accepted for oral presentation at **ICICT4SD 2021**.
+* **[January]** — A long paper has been accepted for oral presentation at [ICICT4SD 2021](http://icict4sd.bup.edu.bd/){:target="_blank"}.
 
 # 2020
 
 * **[December]** — A long paper has been accepted for oral presentation at **ICCCIS 2021**.
 
-* **[December]** — A long paper has been accepted as a **Book Chapter** for oral presentation at **ICICNIS 2020**.
+* **[December]** — A long paper has been accepted as a **Book Chapter** for oral presentation at [ICICNIS 2020](https://link.springer.com/conference/icicnis){:target="_blank"}.
 
-* **[November]** — A long paper has been accepted in **Journal of Computer Science**.
+* **[November]** — A long paper has been accepted in [Journal of Computer Science](https://thescipub.com/jcs){:target="_blank"}.
 
-* **[November]** — One paper won the **Best Paper Award** under the Data Mining and Data Analytics and Big Data session at **11th IEEE IEMCON 2020**.
+* **[November]** — One paper won the **Best Paper Award** under the Data Mining and Data Analytics and Big Data session at [11th IEEE IEMCON 2020](https://ieee-iemcon.org/){:target="_blank"}.
 
 * **[October]** — A long paper has been accepted as a **Book Chapter** for oral presentation at **ADCOM 2020**.
 
-* **[October]** — A long paper has been accepted for oral presentation at **11th IEEE IEMCON 2020**.
+* **[October]** — A long paper has been accepted for oral presentation at [11th IEEE IEMCON 2020](https://ieee-iemcon.org/){:target="_blank"}.
 
-* **[October]** — A long paper has been accepted in **International Journal of Sciences: Basic and Applied Research (IJSBAR)**.
+* **[October]** — A long paper has been accepted in [International Journal of Sciences: Basic and Applied Research (IJSBAR)](https://www.gssrr.org/index.php/JournalOfBasicAndApplied){:target="_blank"}.
 
-* **[July]** — A long paper has been accepted for oral presentation at **IC2IE 2020**.
+* **[July]** — A long paper has been accepted for oral presentation at [IC2IE 2020](https://ic2ie.org/){:target="_blank"}.
 
 # 2019
 
-* **[October]** — Started to work as a **Mentor** in the **Basis Students Forum (BSF)** to represent Bangladesh University.
+* **[October]** — Started to work as a **Mentor** in the [Basis Students Forum (BSF)](https://bsf.basis.org.bd/){:target="_blank"} to represent [Bangladesh University](https://bu.edu.bd/){:target="_blank"}.
 
-* **[July]** — Joined as a **Departmental Coordinator** in the Department of CSE, **Bangladesh University**.
+* **[July]** — Joined as a **Departmental Coordinator** in the Department of CSE, [Bangladesh University](https://bu.edu.bd/){:target="_blank"}.
 
-* **[July]** — Joined as an **Adjunct Lecturer** in the Department of CSE, **Ahsanullah University of Science and Technology**.
+* **[July]** — Joined as an **Adjunct Lecturer** in the Department of CSE, [Ahsanullah University of Science and Technology](https://aust.edu/){:target="_blank"}.
 
-* **[January]** — Selected **Best Faculty** in the Department of CSE for Fall-2018 Semester at **Bangladesh University**.
+* **[January]** — Selected **Best Faculty** in the Department of CSE for Fall-2018 Semester at [Bangladesh University](https://bu.edu.bd/){:target="_blank"}.
 
 # 2018
 
-* **[December]** — Nominated **Best Presenter Award** for one of our papers in the session of Machine Intelligence at **ICCIT 2018**.
+* **[December]** — Nominated **Best Presenter Award** for one of our papers in the session of Machine Intelligence at [ICCIT 2018](https://iccit.org.bd/2018/){:target="_blank"}.
 
-* **[October]** — A long paper has been accepted for oral presentation at **ICCIT 2018**.
+* **[October]** — A long paper has been accepted for oral presentation at [ICCIT 2018](https://iccit.org.bd/2018/){:target="_blank"}.
 
-* **[October]** — Joined as a **Lecturer** in the Department of CSE, **Bangladesh University**.
+* **[October]** — Joined as a **Lecturer** in the Department of CSE, [Bangladesh University](https://bu.edu.bd/){:target="_blank"}.
 
 * **[June]** — Successfully completed my **B.Sc. in CSE**.
 
-* **[May]** — Successfully defended my **B.Sc. Thesis** under **Ahsanullah University of Science and Technology**.
+* **[May]** — Successfully defended my **B.Sc. Thesis** under [Ahsanullah University of Science and Technology](https://aust.edu/){:target="_blank"}.
 
-* **[May]** — Joined as an **Assistant Project Coordinator** in the Department of IT, **British Council Bangladesh**.
+* **[May]** — Joined as an **Assistant Project Coordinator** in the Department of IT, [British Council Bangladesh](https://www.britishcouncil.org.bd/en){:target="_blank"}.
 
-* **[January]** — One paper won the **Best Paper Award** under the Machine Intelligence session at **ICCIT 2018**.
+* **[January]** — One paper won the **Best Paper Award** under the Machine Intelligence session at [ICCIT 2018](https://iccit.org.bd/2018/){:target="_blank"}.
 
 ---
 
