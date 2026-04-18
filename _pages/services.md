@@ -58,20 +58,20 @@ author_profile: true
 
 # Supervising / Student Research Collaborators
 
-* Kamruzzaman Mithu (United International University, Bangladesh)
+* [Kamruzzaman Mithu](https://scholar.google.com/citations?hl=en&user=Jhca7XgAAAAJ){:target="_blank"} (United International University, Bangladesh)
 * Obaidur Rahman (Khulna University, Bangladesh)
-* Md. Atiqur Rahman (Ahsanullah University of Science and Technology, Bangladesh)
+* [Md. Atiqur Rahman](https://scholar.google.com/citations?user=9vbWVywAAAAJ&hl=en){:target="_blank"} (Ahsanullah University of Science and Technology, Bangladesh)
 * Marzia Tahsin (Ahsanullah University of Science and Technology, Bangladesh)
 * Sanjida Jabin (Green University of Bangladesh, Bangladesh)
 * Mahbuba Sumia Suhi (Green University of Bangladesh, Bangladesh)
-* Md. Nabil Rahman Khan (Ahsanullah University of Science and Technology, Bangladesh)
+* [Md. Nabil Rahman Khan](https://scholar.google.com/citations?user=ENd7ZcEAAAAJ&hl=en){:target="_blank"} (Ahsanullah University of Science and Technology, Bangladesh)
 * S.M. Raiyan Reza (Ahsanullah University of Science and Technology, Bangladesh)
-* Omor Al Tanim (Ahsanullah University of Science and Technology, Bangladesh)
-* Most. Sadia Salsabil (Ahsanullah University of Science and Technology, Bangladesh)
-* Fatema Tuj Johora Faria (Ahsanullah University of Science and Technology, Bangladesh)
-* Mukaffi Bin Moin (Ahsanullah University of Science and Technology, Bangladesh)
+* [Omor Al Tanim](https://scholar.google.com/citations?user=XPlrGM4AAAAJ&hl=en){:target="_blank"} (Ahsanullah University of Science and Technology, Bangladesh)
+* [Most. Sadia Salsabil](https://www.linkedin.com/in/sadia-salsabil-61b525170/){:target="_blank"} (Ahsanullah University of Science and Technology, Bangladesh)
+* [Fatema Tuj Johora Faria](https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en){:target="_blank"} (Ahsanullah University of Science and Technology, Bangladesh)
+* [Mukaffi Bin Moin](https://scholar.google.com/citations?user=tU258wwAAAAJ&hl=en){:target="_blank"} (Ahsanullah University of Science and Technology, Bangladesh)
 * Ahmed Al Wase (Ahsanullah University of Science and Technology, Bangladesh)
-* Nabila Tasnia (Ahsanullah University of Science and Technology, Bangladesh)
+* [Nabila Tasnia](https://scholar.google.com/citations?user=wDhZBW8AAAAJ&hl=en){:target="_blank"} (Ahsanullah University of Science and Technology, Bangladesh)
 
 ---
 
