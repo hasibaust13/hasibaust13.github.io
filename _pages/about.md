@@ -26,6 +26,8 @@ I am open to research collaborations in the fields of **Machine Learning**, **Me
 
 * **[February 2026]** — A long conference paper on "Watermelon Disease Classification" under my co-supervision has been accepted for oral presentation in [QPAIN 2026](https://qpain.org){:target="_blank"}.
 
+* **[January 2026]** — Started journey at [IEEE ACT Branch](https://r10.ieee.org/act/){:target="_blank"} as a **Student Representative** of [UNSW Canberra](https://www.unsw.edu.au/canberra){:target="_blank"}.
+
 * **[November 2025]** — A long collaborative paper has been accepted under my co-supervision in [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy){:target="_blank"} Journal [**Q1**].
 
 * **[October 2025]** — Reached **2000** citations on my Google Scholar profile!
