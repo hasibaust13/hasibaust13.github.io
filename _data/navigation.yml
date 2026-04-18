@@ -27,5 +27,8 @@ main:
   - title: "CV"
     url: /resume/
 
+  - title: "Miscellaneous"
+    url: /miscellaneous/
+
   - title: "Contact"
     url: /contact/
