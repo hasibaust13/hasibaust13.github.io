@@ -5,18 +5,26 @@ permalink: /awards/
 author_profile: true
 ---
 
-# Awards & Achievements
+# Academic Honors
 
-* **Highest Distinction Award** — CGPA 4.00/4.00, BRAC University (2023)
-* **Best Paper Award** — Human-Centric Intelligent Systems Journal (2022)
-* **Best Paper Award** — AI and Machine Learning Session, IEEE CCWC (2022)
-* **Best Presenter Award** — Big Data Management and Analytics Session, IEEE CCWC (2022)
-* **Best Paper Award** — Signal Detection and Processing Session, IEEE IEMCON (2021)
-* **Best Paper Award** and **Best Presenter Award** — Machine Intelligence Session, IEEE ICCIT (2018)
-* **Honorable Mention — Coach** — ICPC Asia Dhaka Regional Contest (2021)
-* **MSc Scholarship** — BRAC University (2022)
-* **Nominated Best Faculty Award** — Fall 2018, Department of CSE, Bangladesh University
-* **Certificate of Appreciation** — Research publication recognition (2022–2023), BUBT Research and Innovation Center (2024)
+* **Dhaka Educational General Scholarship** for excellence in the HSC examination, 2013
+* **Dhaka Educational Board Scholarship** for excellence in the SSC examination, 2011
+* **Scholars Forum General Scholarship** for excellence in the class 9 scholars examination, 2009
+* **Dhaka Educational General Scholarship** for excellence in the class 8 examination, 2008
+
+---
+
+# Awards
+
+* **Best Paper Award** in Human-Centric Intelligent Systems Journal, Springer Publisher, 2022.
+* **Best Paper Award** on Artificial Intelligence and Machine Learning Session at CCWC-2022 in Las Vegas, USA, 2022.
+* **Best Presenter Award** at CCWC-2022 in Las Vegas, USA, 2022.
+* **Best Paper Award** on Signal Detection and Processing Session at IEMCON-2021 in Vancouver, Canada, 2021.
+* **Best Paper Award** on Data Mining and Data Analytics and Big Data Session at IEMCON-2020 in Vancouver, Canada, 2020.
+* **Best Paper Award** on Machine Intelligence Session at ICCIT-2018 in United International University, 2018.
+* **Best Presenter Award** at ICCIT-2018 in United International University, 2018.
+* **Champion** at "Software Mobile Application Category" in Intra AUST Technomania, 2016.
+* **2nd Runners Up** at "Dhaka Division National Language Competitions" organised by Prothom Alo, 2008.
 
 ---
 
