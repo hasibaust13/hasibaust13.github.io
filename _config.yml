@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Khan Md Hasib"
 title_separator          : "-"
 name                     : &name "Khan Md Hasib"
-description              : &description "PhD Student at UNSW Canberra | Health Informatics, AI in Safety, NLP"
+description              : &description "PhD Student @UNSW Canberra | Machine Learning, Knowledge Graph, Health Informatics, Healthcare AI"
 url                      : https://hasibaust13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hasibaust13/hasibaust13.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Khan Md Hasib"
   avatar           : "hasib_profile.jpeg"
-  bio              : "PhD Student @UNSW Canberra | Machine Learning, Medical Imaging, Explainable AI, NLP"
+  bio              : "PhD Student @UNSW Canberra | Machine Learning, Knowledge Graph, Health Informatics, Healthcare AI"
   location         : "Canberra, Australia"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term="
