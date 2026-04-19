@@ -11,7 +11,7 @@ author_profile: true
 
 <figure>
 <img src="/images/gallery/panel-member-hdr-launchpad-2026.jpeg" alt="Panel Member - Student-Supervisor Discussion T1 2026 HDR LaunchPad Program, UNSW Canberra" style="width: 100%; max-width: 700px; border-radius: 8px;">
-<figcaption style="margin-top: 8px; font-style: italic; color: #555;">Panel Member — Student-Supervisor Discussion, T1 2026 HDR LaunchPad Program, UNSW Canberra</figcaption>
+<figcaption style="margin-top: 8px; font-style: italic; color: #555;">Panel Member — Student-Supervisor Discussion, T1 2026 HDR LaunchPad Program, UNSW Canberra (March 11, 2026)</figcaption>
 </figure>
 
 ---
