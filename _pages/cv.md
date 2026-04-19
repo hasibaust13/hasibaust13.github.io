@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-For additional information, please see the CV (Last Updated on April 19, 2026)
+For additional information, please see the [CV](https://drive.google.com/drive/folders/1u-KBIHU2nUFEJhHzWsJ-p-V9JwqvgOhX?usp=drive_link){:target="_blank"} (Last Updated on April 19, 2026)
 
 ---
 
