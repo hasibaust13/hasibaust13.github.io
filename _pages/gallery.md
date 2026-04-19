@@ -5,6 +5,8 @@ permalink: /gallery/
 author_profile: true
 ---
 
+> *"Take the photo! One day, when you're gone, all that will be left is your photos."* — Dexter the Standard Poodle
+
 *Coming soon — Photos from conferences, workshops, and academic events.*
 
 ---
